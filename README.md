@@ -1,4 +1,8 @@
 # 2020Tech4Good
+Team: 'robert2022362', 'Ivan-Lcq', 'Nothing-01'.
+
+Thanks 'robert2022362' and 'Nothing-01'
+
 Hackathon Project: a platform for education in rural areas in China
 
 
@@ -12,6 +16,7 @@ Steps:
   5. empty the files
 
 Instruction:
+
   Terminal --> './test.sh'
 
 
@@ -20,13 +25,17 @@ Instruction:
 
 
 ======Project GUI======
+
 not finished due to lack of time :(
+
 but we will improve GUI in the future
 
 Steps:
+
   almost the same process as Project Terminal
  
 Instruction:
+
   Terminal --> 'python gui.py' (PS: do not click botton when it is still loading)
 
 
@@ -36,6 +45,9 @@ Instruction:
 
 
 'map.py' will generate 'seed_project_city.html', you click on it, and you will see the map
+
+
+
 
 We will set up SQL database on service in the future, and the html e-map will show the users distribution
 
