@@ -33,6 +33,8 @@ but we will improve GUI in the future
 Steps:
 
   almost the same process as Project Terminal
+  
+  
  
 Instruction:
 
@@ -58,3 +60,10 @@ We will set up SQL database on service in the future, and the html e-map will sh
 
 
 'web.txt' contains a website, the website shows the profile of us
+
+
+=====================================================================================
+
+
+'seed_plant_database 1.ipynb' shows the code for database --> freetech database
+'database_pic1' and 'database_pic2' shows the database we set up
